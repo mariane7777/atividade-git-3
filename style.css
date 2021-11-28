@@ -1,0 +1,14 @@
+body {
+    background-image: url(sett.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(141, 38, 38);
+}
+
+.conteudo {
+    margin-top: 15%;
+}
